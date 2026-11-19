@@ -1,0 +1,6 @@
+{
+  "name": "Alfabetização Mágica",
+  "description": "Aplicativo educativo e lúdico para alfabetização de crianças de 5 a 7 anos em língua portuguesa. Possui 20 fases em tons pastéis: reconhecimento de letras e sons, sílabas simples e complexas, palavras e formação de frases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
